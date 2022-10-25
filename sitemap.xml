@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.xh10.vip/%E5%8F%8B%E4%BA%BA%E9%93%BE/index.html</loc>
+    <loc>http://blog.xh10.vip/classify/index.html</loc>
     
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://blog.xh10.vip/classify/index.html</loc>
+    <loc>http://blog.xh10.vip/%E5%8F%8B%E4%BA%BA%E9%93%BE/index.html</loc>
     
     <lastmod>2022-10-24</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://blog.xh10.vip/ctf%E5%88%B7%E9%A2%98/index.html</loc>
+    <loc>http://blog.xh10.vip/CTF%E5%88%B7%E9%A2%98/index.html</loc>
     
     <lastmod>2022-10-24</lastmod>
     
